@@ -1,0 +1,58 @@
+body {
+  background-image: url("backgroundg.jpg");
+  background-size: cover;
+  }
+
+main {
+  background-color: #00ff00;
+  border: 30px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.container{
+  text-align:left;
+  width: 750px;
+  padding: 60px;
+  margin-left: 300px;
+  margin-top: 40px;
+  color: White;
+  background-color: #000000;
+  opacity: 0.7;
+}
+
+.logo{
+  width: 200px;
+  margin-left: 250px;
+}
+
+.logo-text{
+  font-size: 30px;
+  color: #00ff00;
+  text-align: center;
+}
+.art {
+  color: #ff4500;
+  background: #ff4500;
+  border: 0;
+  height: 30px;
+  width: 250px;
+  margin-left: inherit;
+}
+.bart {
+  color: #00ff00;
+  background: #00ff00;
+  border: 0;
+  height: 30px;
+  width: 400px;
+  margin-left: inherit;
+}
+.joint {
+  color: #ff0000;
+  background: #ff0000;
+  border: 0;
+  height: 30px;
+  width: 100px;
+  margin-left: inherit;
+}
